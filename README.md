@@ -1,7 +1,7 @@
 #  Creating anime characters using DCGANs and Keras 
 ### **Author : Joseph Santarcangelo**
-### **Author : Roxanne Li**
-### **Author : Junxing(J.C.) Chen**
+###            Roxanne Li**
+###            Junxing(J.C.) Chen**
 
 ## Overview 
 Generative adversarial networks (GANs)
